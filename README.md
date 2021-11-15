@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ItsAkiraLOL
+- 👀 I’m interested in Coding Discord Bots
+- 🌱 I’m currently learning NodeJs, Python, HTML
+- 💞️ I’m looking to collaborate on Discord Bot's
+- 📫 How to reach me Akiralolll#4306
